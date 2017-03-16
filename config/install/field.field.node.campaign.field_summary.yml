@@ -1,0 +1,20 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_summary
+    - node.type.campaign
+  module:
+    - text
+id: node.campaign.field_summary
+field_name: field_summary
+entity_type: node
+bundle: campaign
+label: Summary
+description: 'Use this summary field to provide a brief summary of your post that will be used in certain displays.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

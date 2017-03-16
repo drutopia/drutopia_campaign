@@ -1,0 +1,19 @@
+name: 'Drutopia Campaign'
+description: 'Provides Campaign content type and related configuration. A <em>campaign</em> includes background information as well as ability to list demands and updates.'
+type: module
+core: 8.x
+dependencies:
+  - drutopia_core
+  - ds
+  - entity_reference_revisions
+  - field
+  - menu_ui
+  - node
+  - paragraphs
+  - paragraphs_base_text
+  - path
+  - pathauto
+  - text
+  - user
+  - views
+package: Drutopia
