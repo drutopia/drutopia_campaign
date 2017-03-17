@@ -5,6 +5,8 @@ dependencies:
     - core.entity_view_mode.node.teaser
     - field.field.node.campaign.body
     - field.field.node.campaign.field_body_paragraph
+    - field.field.node.campaign.field_campaign_demands
+    - field.field.node.campaign.field_campaign_updates
     - field.field.node.campaign.field_summary
     - node.type.campaign
   module:
@@ -56,4 +58,6 @@ content:
 hidden:
   body: true
   field_body_paragraph: true
+  field_campaign_demands: true
+  field_campaign_updates: true
   links: true
