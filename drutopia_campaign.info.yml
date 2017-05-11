@@ -10,7 +10,6 @@ dependencies:
   - menu_ui
   - node
   - paragraphs
-  - paragraphs_base_text
   - path
   - pathauto
   - text
