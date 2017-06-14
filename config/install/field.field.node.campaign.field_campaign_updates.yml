@@ -4,7 +4,7 @@ dependencies:
   config:
     - field.storage.node.field_campaign_updates
     - node.type.campaign
-    - paragraphs.paragraphs_type.text
+    - paragraphs.paragraphs_type.update
   module:
     - entity_reference_revisions
 id: node.campaign.field_campaign_updates
@@ -21,15 +21,18 @@ settings:
   handler: 'default:paragraph'
   handler_settings:
     target_bundles:
-      text: text
+      update: update
     target_bundles_drag_drop:
       text:
-        enabled: true
         weight: -9
+        enabled: false
       file:
         weight: -8
         enabled: false
       image:
         weight: -7
         enabled: false
+      update:
+        enabled: true
+        weight: 8
 field_type: entity_reference_revisions
