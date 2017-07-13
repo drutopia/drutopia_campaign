@@ -1,0 +1,16 @@
+path:
+  - permissions
+plugin: add
+actions:
+  'create campaign content':
+    value: 'create campaign content'
+  'delete campaign revisions':
+    value: 'delete campaign revisions'
+  'delete any campaign content':
+    value: 'delete any campaign content'
+  'edit any campaign content':
+    value: 'edit any campaign content'
+  'revert campaign revisions':
+    value: 'revert campaign revisions'
+  'view campaign revisions':
+    value: 'view campaign revisions'
