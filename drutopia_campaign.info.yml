@@ -8,11 +8,14 @@ dependencies:
   - ds
   - entity_reference_revisions
   - field
+  - field_group
+  - image
   - menu_ui
   - node
   - paragraphs
   - path
   - pathauto
+  - responsive_image
   - text
   - user
   - views
