@@ -122,8 +122,7 @@
                         "value": "24326258-9ec0-4df5-8354-39089bf5510a"
                     }
                 ],
-                "lang": "en",
-                "target_revision_id": "376"
+                "lang": "en"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/campaign\/field_campaign_demands": [
@@ -140,8 +139,7 @@
                     {
                         "value": "afb90c41-6aa9-447d-ac54-caf83714f46f"
                     }
-                ],
-                "target_revision_id": "377"
+                ]
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/campaign\/field_campaign_updates": [
@@ -158,8 +156,7 @@
                     {
                         "value": "31c4f40a-d592-41ac-9f6c-eebf4e574b38"
                     }
-                ],
-                "target_revision_id": "378"
+                ]
             },
             {
                 "_links": {
@@ -174,8 +171,7 @@
                     {
                         "value": "496478ca-7fba-4f19-8717-d81a22c31170"
                     }
-                ],
-                "target_revision_id": "379"
+                ]
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/campaign\/field_image": [

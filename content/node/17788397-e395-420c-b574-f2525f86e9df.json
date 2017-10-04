@@ -114,8 +114,7 @@
                         "value": "5be55287-c014-4f75-b603-93b846254958"
                     }
                 ],
-                "lang": "en",
-                "target_revision_id": "374"
+                "lang": "en"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/campaign\/field_campaign_demands": [
@@ -132,8 +131,7 @@
                     {
                         "value": "2b5a6e61-d8e8-4d49-90f1-9ab39678c6bb"
                     }
-                ],
-                "target_revision_id": "375"
+                ]
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/campaign\/field_image": [
