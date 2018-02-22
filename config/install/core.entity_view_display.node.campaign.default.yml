@@ -11,25 +11,18 @@ dependencies:
     - field.field.node.campaign.field_summary
     - node.type.campaign
   module:
-    - metatag
     - user
 id: node.campaign.default
 targetEntityType: node
 bundle: campaign
 mode: default
-content:
-  field_meta_tags:
-    weight: 1
-    label: above
-    settings: {  }
-    third_party_settings: {  }
-    type: metatag_empty_formatter
-    region: content
+content: {  }
 hidden:
   body: true
   field_body_paragraph: true
   field_campaign_demands: true
   field_campaign_updates: true
   field_image: true
+  field_meta_tags: true
   field_summary: true
   links: true
