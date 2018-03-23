@@ -18,6 +18,7 @@ dependencies:
   - path
   - pathauto
   - responsive_image
+  - search_api
   - text
   - user
   - views
