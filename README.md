@@ -13,6 +13,12 @@ Drutopia Campaign provides a Campaign content type, including background informa
 
 ### Requirements
 
+ * drupal/config_actions ^1.0-beta1
+ * drupal/drutopia_core ^1.0-alpha1
+ * drupal/drutopia_seo ^1.0-alpha1
+ * drupal/ds ^3.0-rc1
+ * drupal/field_group ^3.0-beta1
+ * drupal/pathauto ^1.0
  * drupal/paragraphs ^1.1
 
 
