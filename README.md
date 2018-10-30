@@ -1,9 +1,23 @@
 <!-- writeme -->
+Drutopia Campaign
+=================
 
-### About
+Drutopia Campaign provides a Campaign content type, including background information as well as ability to list demands and updates, and related configuration.
 
-A campaign page is a central place to explain the issue, publish news articles about its activity, list out demands, post calls to action and raise funds.
+ * https://gitlab.com/drutopia/drutopia_campaign
+ * Issues: https://gitlab.com/drutopia/drutopia_campaign/issues
+ * Source code: https://gitlab.com/drutopia/drutopia_campaign/tree/8.x-1.x
+ * Keywords: campaign, initiative, content, drutopia
+ * Package name: drupal/drutopia_campaign
 
-### Potential Future Features
 
-* Onsite Petition
+### Requirements
+
+ * drupal/paragraphs ^1.1
+
+
+### License
+
+GPL-2.0+
+
+<!-- endwriteme -->
